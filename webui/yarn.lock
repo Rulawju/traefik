@@ -13089,6 +13089,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lodash@npm:^4.17.23":
+  version: 4.17.23
+  resolution: "lodash@npm:4.17.23"
+  checksum: 10c0/1264a90469f5bb95d4739c43eb6277d15b6d9e186df4ac68c3620443160fc669e2f14c11e7d8b2ccf078b81d06147c01a8ccced9aab9f9f63d50dcf8cace6bf6
+  languageName: node
+  linkType: hard
+
 "log-symbols@npm:^1.0.2":
   version: 1.0.2
   resolution: "log-symbols@npm:1.0.2"
@@ -17851,7 +17858,7 @@ __metadata:
     jest-extended: "npm:^4.0.2"
     jsdom: "npm:^24.0.0"
     lint-staged: "npm:^9.5.0"
-    lodash: "npm:^4.17.21"
+    lodash: "npm:^4.17.23"
     msw: "npm:^2.1.7"
     prettier: "npm:^3.5.3"
     query-string: "npm:^6.9.0"
